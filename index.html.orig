@@ -41,6 +41,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav">
         <li class="nav-item">
+<<<<<<< HEAD
           <a class="nav-link js-scroll-trigger" href="#about">About Me</a>
         </li>
         <li class="nav-item">
@@ -51,6 +52,18 @@
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#skills">Education & Certification</a>
+=======
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+>>>>>>> 51ba14acc26cc14cb4cc27aeda127fc2671f37fb
         </li>
       </ul>
     </div>
@@ -63,11 +76,21 @@
         <h1 class="mb-0">Abraham
           <span class="text-primary">Vega</span>
         </h1>
+<<<<<<< HEAD
         <div class="subheading mb-5">Los Angeles, CA · (909) 587-9226 ·
           <a href="mailto:name@email.com">AbrahamVega1989@gmail.com</a>
         </div>
         <p class="lead mb-5">Hello world! I'm a Java developer comfortable using Spring and Object Oriented Programming to create apps and software. I have experience in both Front and Back-End technologies. Front-End has been mostly with HTML, JavaScript and React. For Back-End I have experience with JDBC, Spring and SQL.  
 		</p>
+=======
+        <div class="subheading mb-5">443 Everett Ave· Monterey Park, CA 91755 · (909) 587-9226 ·
+          <a href="mailto:name@email.com">AbrahamVega1989@gmail.com</a>
+        </div>
+        <p class="lead mb-5">I'm a new graduate from California State University Los Angeles with a Bachelor's of Science. Two things I enjoy most about programming is solving complex data structure problems and that it gives me the ability to create. Our own imagination is the limit, after all.
+		<br>
+		<br>
+		I've chosen to focus coding in Java (by far my strongest language), however I'm versed in Python, JavaScript, and C++ as well.</p>
+>>>>>>> 51ba14acc26cc14cb4cc27aeda127fc2671f37fb
         <div class="social-icons">
           
           <a href="https://github.com/avega15">
@@ -81,6 +104,7 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
       <div class="w-100">
+<<<<<<< HEAD
         <h2 class="mb-5">Projects</h2>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -163,15 +187,57 @@ Given the words in the magazine and the words in the ransom note, print Yes if h
 		</div>
 	</div>
 </div>
+=======
+        <h2 class="mb-5">Experience &amp; Projects</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Senior IT Trainer</h3>
+            <div class="subheading mb-3">Cal State LA - Information Technology Services</div>
+            <p>As an IT Trainer, my goal was to create and teach workshops focused on computer software ranging from Microsoft Office to Drupal. Being the senior IT Trainer meant that I was in charge of the day-to-day of other trainers and ensure progress was being made. 
+			<br>
+			<br>
+			Though this position may not have involved a lot of programming, it taught me how to work in and manage a team along with experience in how to work in an office setting. </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">February 2013 - August 2019</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Software Engineer</h3>
+            <div class="subheading mb-3">Vodafone</div>
+            <p>For my senior design project I was placed in a small team of peers where we had to design and implement a context detection application on smart glasses. Our goal was to create an accurate step counting application which solely utilized smart glasses sensors and our salience algorithm. 
+			<br>
+			<br>
+			We were able to reach our goal and managed a 87% accurate reading of steps, and our software will be utilized in Vodafone's product. 
+			</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2018 - May 2019</span>
+          </div>
+        </div>
+      </div>
+
+>>>>>>> 51ba14acc26cc14cb4cc27aeda127fc2671f37fb
     </section>
 
     <hr class="m-0">
 
+<<<<<<< HEAD
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
       <div class="w-100">
         <h2 class="mb-5">Education & Certification</h2>
 
                 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+=======
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+>>>>>>> 51ba14acc26cc14cb4cc27aeda127fc2671f37fb
           <div class="resume-content">
             <h3 class="mb-0">California State University Los Angeles</h3>
             <div class="subheading mb-3">Bachelor of Science</div>
@@ -182,6 +248,7 @@ Given the words in the magazine and the words in the ransom note, print Yes if h
           </div>
 
         </div>
+<<<<<<< HEAD
 
                 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
@@ -196,6 +263,75 @@ Given the words in the magazine and the words in the ransom note, print Yes if h
         </div>
 
 
+=======
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Relavent Coursework</h3>
+            <ul>
+			
+				<li><div>Object-Oriented Programming</div></li>
+				<li><div>Programing Language Paradigms</div></li>
+				<li><div>Programming with Data Structures</div></li>
+				<li><div>Design and Analysis of Algorithms</div></li>
+				<li><div>Web and Internet Programming</div></li>
+				<li><div>Advanced Topics in Android App Development</div></li>
+			</ul>
+          </div>
+          
+
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+      <div class="w-100">
+        <h2 class="mb-5">Skills</h2>
+
+        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <ul class="list-inline dev-icons">
+          <li class="list-inline-item">
+            <i class="fab fa-java"></i>
+          </li>
+		  <li class="list-inline-item">
+            <i class="fab fa-python"></i>
+          </li>
+		  <li class="list-inline-item">
+		  <i class="devicon-cplusplus-plain"></i>
+		  </li>
+		  
+		  <li class="list-inline-item">
+		  <i class="devicon-javascript-plain"></i>
+		  </li>
+	
+		  <li class="list-inline-item">
+		  <i class="devicon-mysql-plain"></i>
+		  </li>
+		  <li class="list-inline-item">
+            <i class="fab fa-github"></i>
+          </li>
+		  <br>
+		  <li class="list-inline-item">
+            <i class="fab fa-html5"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-css3-alt"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-angular"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-react"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-node-js"></i>
+          </li>
+		  <li class="list-inline-item">
+          <i class="fab fa-wordpress"></i>
+          </li>
+        </ul>
+>>>>>>> 51ba14acc26cc14cb4cc27aeda127fc2671f37fb
       </div>
     </section>
 
